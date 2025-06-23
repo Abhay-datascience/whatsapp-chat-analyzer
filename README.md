@@ -31,7 +31,7 @@ This project is a data analysis tool that helps users extract useful insights fr
 
 2. Install the required packages:
 
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the app (if using Streamlit):
 
